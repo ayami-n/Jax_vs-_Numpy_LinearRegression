@@ -1,1 +1,1 @@
-# Jax_vs-_Numpy_LinearRegression
+# Jax_vs_Numpy_LinearRegression
